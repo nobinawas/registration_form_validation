@@ -1,0 +1,35 @@
+h3{
+    margin-left:30px;
+    color: maroon;
+}
+form li{
+    list-style: none;
+    margin-bottom: 5px;
+    color: maroon;
+}
+form ul li label{
+    float: left;
+    clear: left;
+    width: 70px;
+    text-align: right;
+    margin-right: 10px;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: maroon;
+}
+form ul li input,select,span{
+    float: left;
+    color: maroon;
+}
+form textarea{
+    float: left;
+    width: 180px;
+    color: maroon;
+    height: 150px;
+}
+[type="submite"]{
+    clear: left;
+    margin: 20px 0px 0px 230px;
+    font-size: 18px;
+    color: green;
+}
